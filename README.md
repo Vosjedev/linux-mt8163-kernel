@@ -1,3 +1,9 @@
+i have forked this kernel to make modifications to the files, so it can compile correctly for postmarket os.  
+  
+original readme:  
+
+---
+
 Linux kernel
 ============
 
