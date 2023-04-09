@@ -1,5 +1,6 @@
 i have forked this kernel to make modifications to the files, so it can compile correctly for postmarket os.  
-  
+please not that with this modification you CANT use this for other SoC/processor that mt8163. if you want to do so, look at the original repo or even better: find one for your SoC/processor.
+
 original readme:  
 
 ---
